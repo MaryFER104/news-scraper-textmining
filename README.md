@@ -1,7 +1,7 @@
 # news-scraper-textmining
 Automated news web scraper with Selenium + PostgreSQL and WordCloud text analysis.
 
-# 📰 Proyecto de Ciencia de Datos y Machine Learning
+# 📰 Web Scraping
 
 This project implements an automated pipeline for news headline extraction and analysis using web scraping, natural language processing (NLP), and results visualization. The goal is to demonstrate how to integrate Data Science and Machine Learning techniques to transform unstructured data into useful information.
 
